@@ -12,6 +12,8 @@
 
 // todo: edit the above URL's as necessary
 // todo: Options interface to set the excluded IP
+//   possible problem with this: It would need to be set up multiple times
+//   For now, I'm going to actually leave it as-is
 // Possible todo: Allow setting up different environments:
 // * per IP - set a label
 // * per IP - set a color for the favicon badge
@@ -23,7 +25,7 @@
 // You can set an excluded IP (for your live environment, obviously) below:
 
 // Config: Set live server IP here:
-$live_server = '72.10.52.144';
+$live_server = '123.45.67.890';
 
 // ... and off we go:
 if($_SERVER['SERVER_ADDR'] != $live_server) {
