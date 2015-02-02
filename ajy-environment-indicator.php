@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: AJY Environment Indicator
- * Plugin URI: http://ajy.co
+ * Plugin URI: https://ajy.co/web/wordpress-environment-indicator-plugin/
  * Description: Add an IP address indicator and a favicon badge on development environments.
- * Version: 1.0.0
+ * Version: 1.0
  * Author: Aaron James Young
- * Author URI: http://ajy.co
+ * Author URI: https://ajy.co
  * License: GPL2
  */
 
